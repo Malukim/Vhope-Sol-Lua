@@ -97,7 +97,7 @@
     <img src="vhope7.jpg" alt="Foto 7">
 <div class="frases">
   <p> em 1 de julho, o céu sorriu,
-    e o sol brilhou um pouco mais.
+e o sol brilhou um pouco mais.
 nasceu alguém que carrega luz
 no olhar, no riso, nos gestos de paz.
 
